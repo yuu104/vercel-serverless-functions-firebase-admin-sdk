@@ -40,6 +40,9 @@ export const db = admin.firestore(adminApp)
 ### 参考リンク
 https://kiyobl.com/firebase-admin/
 
+## Vercel Serverless Functionsの参考リンク
+https://vercel.com/docs/functions/serverless-functions
+
 ## Next.js Route Handlersの参考リンク
 https://nextjs.org/docs/app/building-your-application/routing/route-handlers
 
