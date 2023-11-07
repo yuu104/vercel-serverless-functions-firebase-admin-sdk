@@ -39,3 +39,11 @@ export const db = admin.firestore(adminApp)
 
 ### 参考リンク
 https://kiyobl.com/firebase-admin/
+
+## Next.js Route Handlersの参考リンク
+https://nextjs.org/docs/app/building-your-application/routing/route-handlers
+
+https://reffect.co.jp/react/next-js-13/#route-handlers
+
+https://www.zenryoku-kun.com/post/nextjs-route-handler
+
